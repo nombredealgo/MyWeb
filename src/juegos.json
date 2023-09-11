@@ -1,0 +1,42 @@
+[
+    {      
+        "imgTituloLargo": "titulosL/BBBTituloLg.png",
+        "video":"videos/BBBVideo.mp4",
+        "titulo": "Big Bang Boom",
+        "descripcion": "A puzzle game where you have to desactivate a bomb before it explodes. Made with two other companions",
+        "enlaceGithub":"https://github.com/nombredealgo/Big-Bang-BOOM",
+        "cssBackground": "BBB",
+        "drawerColor": "#2C1505",
+        "githubMsg":"DOWNLOAD FROM GITHUB"
+    },
+    {
+        "imgTituloLargo": "titulosL/PNTituloLg.png",
+        "video":"videos/PNVideo.mp4",
+        "titulo": "Project Neon",
+        "descripcion": "A colorfull platformer. Fight monsters and take the heroine to the top of the level. Includes a boss fight. Made with another companion",
+        "enlaceGithub":"https://github.com/nombredealgo/Neon",
+        "cssBackground": "PN",
+        "drawerColor": "#01171A",
+        "githubMsg":"DOWNLOAD FROM GITHUB"
+    },
+    {
+        "imgTituloLargo": "titulosL/WaDTituloLg.png",
+        "video":"videos/WaDVideo.mp4",
+        "titulo": "We are doomed",
+        "descripcion": "Follow Meredy and Celnyra while they traverse dungeons, solve puzzles and fight monsters. Change between the two girls to overcome any obstacle",
+        "enlaceGithub":"https://github.com/nombredealgo/WeAreDommed",
+        "cssBackground": "WaD",
+        "drawerColor": "#23030F",
+        "githubMsg":"DOWNLOAD FROM GITHUB"
+    },
+    {
+        "imgTituloLargo": "titulosL/TaDTituloLg.png",
+        "video":"https://youtu.be/PZ0M9_2IPyk",
+        "titulo": "Taverns and dragons",
+        "descripcion": "Make sure the 20 faced dice wont fall while traversing through dragons, towers, swords and krakens. Uses the Unity puzzle kit. Because problems with new Unity versions this project cant be dowloaded",
+        "enlaceGithub":"",
+        "cssBackground": "TaD",
+        "drawerColor": "#262303",
+        "githubMsg":"CAN'T BE DOWNLOADED"
+    }    
+]
